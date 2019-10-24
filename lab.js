@@ -71,7 +71,7 @@ var adding = function(penguin)
         {
             if (finalscore(penguin)<=70)        
             {
-                return "30px"
+                return "24px"
             }
             
         })

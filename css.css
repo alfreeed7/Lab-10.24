@@ -4,16 +4,17 @@ h1
 }
 table
 {
-width:70%;
-    margin-left: 15%;
+width:80%;
+    margin-left: 10%;
     border: 2px solid;
   border-collapse: collapse;
+    table-layout: fixed;
 }
 
 th, tr, td {
   border: 2px solid black;
-    width: 200px;
-    height: 200px;
+    text-align: center;
 }
+
 img
-{height: 150px;}
+{height: 140px;}
